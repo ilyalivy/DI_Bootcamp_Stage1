@@ -1,0 +1,38 @@
+body {
+    text-align: center;
+    background-color: lightyellow;
+}
+h1 {
+    font-family: sans-serif;
+    font-style: italic;
+    border: dotted;
+    margin-bottom: 0;
+}
+p {
+    border: dotted;
+    border-top: none;
+    border-bottom: none;
+    padding: 25px 125px 0;
+    margin: 0 auto;
+    text-align: justify;
+}
+ul {
+    border: dotted;
+    border-top: none;
+    border-bottom: none;
+    padding: 20px 0;
+    margin: 0 auto;
+    font-style: italic;
+}
+ul>li {
+    list-style-type: none;
+    font-family: sans-serif;
+}
+li::first-letter {
+    font-size: 25px;
+}
+.copyright {
+    border: dotted;
+    border-top: none;
+    text-align: center;
+}
