@@ -1,0 +1,32 @@
+* {
+    font-family: sans-serif;
+}
+
+body {
+    background-color: ;
+}
+
+#nav {
+    float: left;
+    width: 200px;
+    background-color: rgb(139, 194, 239);
+    margin-left: 50px;
+    height: 440px;
+}
+
+h2 {
+    text-align: center;
+}
+
+#content {
+    margin-left: 250px;
+    background-color: rgb(71, 135, 225);
+    text-align: center;
+    margin-right: 50px;
+    padding: 20px;
+    height: 400px;
+}
+
+li {
+    list-style-type: none;
+}
