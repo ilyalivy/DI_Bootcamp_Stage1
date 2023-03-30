@@ -3,7 +3,7 @@
 }
 
 body {
-    background-color: ;
+    background-color: rgb(43, 54, 117);
 }
 
 #nav {
@@ -11,7 +11,8 @@ body {
     width: 200px;
     background-color: rgb(139, 194, 239);
     margin-left: 50px;
-    height: 440px;
+    height: 425px;
+    padding-top: 10px;
 }
 
 h2 {
@@ -23,8 +24,8 @@ h2 {
     background-color: rgb(71, 135, 225);
     text-align: center;
     margin-right: 50px;
-    padding: 20px;
-    height: 400px;
+    padding: 5px 20px 5px;
+    height: 425px;
 }
 
 li {
