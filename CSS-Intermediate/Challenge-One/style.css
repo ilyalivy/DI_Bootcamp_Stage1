@@ -20,6 +20,10 @@ h2 {
     text-align: center;
 }
 
+#nav ul {
+   padding-left: 67px;
+}
+
 #content {
     margin-left: 250px;
     background-color: rgb(71, 135, 225);
